@@ -11,7 +11,7 @@ I'm a front-end developer based in London 🇬🇧, passionate about building bl
 ## What I'm Exploring
 
 - **Shader Programming**: Crafting silky smooth animations and pixel manipulation with the power of the GPU.
-- **Low-Level Languages**: Currently learning Swift and Rust, focusing on pixel crunching with high-performance languages.
+- **Low-Level Languages**: Currently learning Swift and Metal, focusing on pixel crunching with high-performance APIs.
 
 ## Let's Connect!
 
